@@ -1,0 +1,50 @@
+.article1 {
+  height: 50px;
+}
+.samsungs9image {
+  float: left;
+  margin-top: -20px;
+}
+.header1{
+  font-weight: bold;
+  font-size: 25px;
+  height: 1.5cm;
+}
+.writing1 {
+  margin-top: 40px;
+  margin-left: 3.8cm;
+}
+.article1line1{
+  font-family: sans-serif;
+  font-size: 0.65cm;
+  line-height: 17px;
+}
+.article1line1:hover {
+  color: green;
+}
+.article1line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+}
+.samsungsa20image {
+  float: left;
+  margin-top: -10px;
+}
+.writing2 {
+  margin-left: 3.8cm;
+  margin-top: 100px;
+}
+.article2line1{
+  font-family: sans-serif;
+  font-size: 0.65cm;
+  line-height: 17px;
+}
+.article2line1:hover {
+  color: green;
+}
+.article2line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+}
