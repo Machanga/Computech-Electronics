@@ -111,3 +111,31 @@
   font-size: 11px;
   line-height: 12px;
 }
+#nextbutton{
+  margin-top: 50px;
+  margin-left: 10cm;
+}
+.article6 {
+  height: 50px;
+}
+.asusroglaptop {
+  float: left;
+  margin-top: -20px;
+}
+.writing6 {
+  margin-left: 3.8cm;
+  margin-top: 100px;
+}
+.article6line1{
+  font-family: sans-serif;
+  font-size: 0.65cm;
+  line-height: 17px;
+}
+.article6line1:hover {
+  color: green;
+}
+.article6line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+}
