@@ -69,3 +69,45 @@
   font-size: 11px;
   line-height: 12px;
 }
+.oneplus6t{
+  float: left;
+  margin-top: -20px;
+}
+.writing4 {
+  margin-left: 3.8cm;
+  margin-top: 100px;
+}
+.article4line1{
+  font-family: sans-serif;
+  font-size: 0.65cm;
+  line-height: 17px;
+}
+.article4line1:hover {
+  color: green;
+}
+.article4line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+}
+.xiomilogo {
+  float: left;
+  margin-top: -20px;
+}
+.writing4 {
+  margin-left: 3.8cm;
+  margin-top: 100px;
+}
+.article5line1{
+  font-family: sans-serif;
+  font-size: 0.65cm;
+  line-height: 17px;
+}
+.article5line1:hover {
+  color: green;
+}
+.article5line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+}
