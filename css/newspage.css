@@ -143,7 +143,39 @@
 }
 #nextbutton{
   margin-top: 50px;
-  margin-left: 10cm;
+  margin-left: 0cm;
+  background-color: #17A589  ;
+  color: white;
+}
+#button1{
+  margin-top: 50px;
+  margin-left: 11cm;
+  background-color: #17A589  ;
+  color: white;
+}
+#button2{
+  margin-top: 50px;
+  margin-left: -0cm;
+  background-color: #17A589  ;
+  color: white;
+}
+#button11{
+  margin-top: 50px;
+  margin-left: 11cm;
+  background-color: #17A589  ;
+  color: white;
+}
+#button22{
+  margin-top: 50px;
+  margin-left: 0cm;
+  background-color: #17A589  ;
+  color: white;
+}
+#previousbutton{
+  margin-top: 50px;
+  margin-left: 0cm;
+  background-color: #17A589  ;
+  color: white;
 }
 
 .asusroglaptop {
@@ -629,4 +661,5 @@
   color: black;
   font-size: 50px;
   font-family: serif;
+  line-height: 1.4cm;
 }
