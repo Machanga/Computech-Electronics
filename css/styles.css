@@ -1,0 +1,25 @@
+.main_header img {
+  width: 10%;
+  border-radius: 40%;
+}
+
+.sidenav {
+  width: 210px;
+  background-color: #19caaf;
+  padding: 8px;
+  border-radius: 20px;
+}
+
+.sidenav a {
+  padding: 10px;
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  display: block;
+  border: 1px solid #2196F3;
+  margin-left: 0px;
+}
+
+.sidenav a:hover {
+  color: #064579;
+}
