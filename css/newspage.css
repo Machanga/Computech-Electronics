@@ -625,3 +625,8 @@
   line-height: 27px;
   letter-spacing: 0.4;
 }
+.letter1{
+  color: black;
+  font-size: 50px;
+  font-family: serif;
+}
