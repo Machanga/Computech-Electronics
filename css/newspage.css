@@ -114,17 +114,15 @@
   margin-right: 100px;
 }
 .xiomilogo {
-  float: left;
-  margin-top: -20px;
+  margin-left: 6cm;
 }
-.writing4 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+.writing5 {
+  margin-top: 40px;
 }
 .article5line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article5line1:hover {
   color: green;
@@ -133,26 +131,31 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article5line2{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 #nextbutton{
   margin-top: 50px;
   margin-left: 10cm;
 }
-.article6 {
-  height: 50px;
-}
+
 .asusroglaptop {
-  float: left;
-  margin-top: -20px;
+  margin-left: 6cm;
 }
 .writing6 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 .article6line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article6line1:hover {
   color: green;
@@ -161,19 +164,26 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article6line2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .huaweimatebook{
-  float: left;
-  margin-top: -20px;
+  margin-left: 6cm;
 }
 .writing7 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 .article7line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article7line1:hover {
   color: green;
@@ -182,6 +192,15 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article7line2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .acerchromobase{
   float: left;
