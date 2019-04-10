@@ -1,44 +1,45 @@
-.article1 {
-  height: 50px;
-}
-.samsungs9image {
-  float: left;
-  margin-top: -20px;
-}
-.header1{
-  font-weight: bold;
-  font-size: 25px;
-  height: 1.5cm;
-}
-.writing1 {
-  margin-top: 40px;
-  margin-left: 3.8cm;
-}
 .article1line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article1line1:hover {
   color: green;
+}
+.samsungs9image{
+  margin-left: 6cm;
+}
+.writing2 {
+  margin-top: 40px;
 }
 .article1line3{
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
 }
+.article1line2{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.article2line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+  margin-left: 7cm;
+}
+
 .samsungsa20image {
-  float: left;
-  margin-top: -10px;
-}
-.writing2 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-left: 6cm;
 }
 .article2line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article2line1:hover {
   color: green;
@@ -48,18 +49,24 @@
   font-size: 11px;
   line-height: 12px;
 }
+.article2line2{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
+}
 .huaweip30pro{
-  float: left;
-  margin-top: -20px;
+  margin-left: 6cm;
 }
 .writing3 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 .article3line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article3line1:hover {
   color: green;
@@ -68,19 +75,26 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article3line2{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .oneplus6t{
-  float: left;
-  margin-top: -20px;
+  margin-left: 6cm;
 }
 .writing4 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 .article4line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article4line1:hover {
   color: green;
@@ -89,6 +103,15 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article4line2{
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .xiomilogo {
   float: left;
