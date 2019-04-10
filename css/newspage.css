@@ -231,17 +231,15 @@
   margin-right: 100px;
 }
 .asuszenbook{
-  margin-top: -20px;
-  float: left;
+  margin-left: 6cm;
 }
 .writing9 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 .article9line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article9line1:hover {
   color: green;
@@ -250,4 +248,41 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article9line2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 60px;
+  margin-right: 100px;
+}
+.asustuf{
+  margin-left: 6cm;
+}
+.writing10 {
+  margin-top: 40px;
+}
+.article10line1{
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
+}
+.article10line1:hover {
+  color: green;
+}
+.article10line3{
+  letter-spacing: 2px;
+  font-size: 11px;
+  line-height: 12px;
+  margin-left: 7cm;
+}
+.article10line2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
