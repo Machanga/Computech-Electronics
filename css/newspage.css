@@ -203,17 +203,15 @@
   margin-right: 100px;
 }
 .acerchromobase{
-  float: left;
-  margin-top: -20px;
+  margin-left: 6cm;
 }
 .writing8 {
-  margin-left: 3.8cm;
-  margin-top: 100px;
+  margin-top: 40px;
 }
 .article8line1{
-  font-family: sans-serif;
-  font-size: 0.65cm;
-  line-height: 17px;
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 3cm;
 }
 .article8line1:hover {
   color: green;
@@ -222,6 +220,15 @@
   letter-spacing: 2px;
   font-size: 11px;
   line-height: 12px;
+  margin-left: 7cm;
+}
+.article8line2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 29px;
+  display: block;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 .asuszenbook{
   margin-top: -20px;
