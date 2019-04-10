@@ -102,3 +102,10 @@
   left: 0px;
   bottom: 5px;
 }
+#price {
+  color: black;
+}
+
+#title {
+  color: red;
+}
