@@ -1,0 +1,16 @@
+table, th {
+  border: 0.5px solid ;
+}
+.center{
+  margin-left: 200px;
+
+}
+.key_features{
+  margin-left: 800px;
+  border: 5px solid red;
+  position: relative;
+  bottom: 380px;
+}
+#camera1{
+  border: 5px solid blue;
+}
