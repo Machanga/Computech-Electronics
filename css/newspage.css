@@ -1,4 +1,10 @@
-.article1line1{
+.header1{
+  font-size: 40px;
+  margin-left: 3cm;
+  font-weight: bold;
+  color: #17A589;
+  }
+  .article1line1{
   font-size: 40px;
   font-weight: bold;
   margin-left: 3cm;
@@ -144,40 +150,45 @@
 #nextbutton{
   margin-top: 50px;
   margin-left: 0cm;
-  background-color: #17A589  ;
+  background-color: #17A589;
   color: white;
 }
 #button1{
   margin-top: 50px;
   margin-left: 11cm;
-  background-color: #17A589  ;
+  background-color: #17A589;
   color: white;
 }
 #button2{
   margin-top: 50px;
   margin-left: -0cm;
-  background-color: #17A589  ;
+  background-color: #17A589;
   color: white;
 }
 #button11{
   margin-top: 50px;
   margin-left: 11cm;
-  background-color: #17A589  ;
+  background-color: #17A589;
   color: white;
 }
 #button22{
   margin-top: 50px;
   margin-left: 0cm;
-  background-color: #17A589  ;
+  background-color: #17A589;
   color: white;
 }
 #previousbutton{
   margin-top: 50px;
   margin-left: 0cm;
-  background-color: #17A589  ;
+  background-color: #17A589;
   color: white;
 }
-
+.header6{
+  font-size: 40px;
+  margin-left: 3cm;
+  font-weight: bold;
+  color: black;
+  }
 .asusroglaptop {
   margin-left: 6cm;
 }
