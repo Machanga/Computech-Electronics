@@ -301,34 +301,6 @@
   margin-left: 60px;
   margin-right: 100px;
 }
-.asustuf{
-  margin-left: 6cm;
-}
-.writing10 {
-  margin-top: 40px;
-}
-.article10line1{
-  font-size: 40px;
-  font-weight: bold;
-  margin-left: 3cm;
-}
-.article10line1:hover {
-  color: green;
-}
-.article10line3{
-  letter-spacing: 2px;
-  font-size: 11px;
-  line-height: 12px;
-  margin-left: 7cm;
-}
-.article10line2 {
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 29px;
-  display: block;
-  margin-left: 100px;
-  margin-right: 100px;
-}
 .greyregion1{
   background-color: #EAEDED;
   height: 25px;
@@ -626,39 +598,6 @@
   float: left;
 }
 .centertextar9{
-  color: #515A5A;
-  font-family: "proxima-semibold","sans-serif";
-  font-size: 15px;
-  width: 20cm;
-  margin-left: auto;
-  margin-right: auto;
-  line-height: 27px;
-  letter-spacing: 0.4;
-}
-.greyregion10{
-  background-color: #EAEDED;
-  height: 25px;
-}
-.greyregiontext10{
-  font-size: 12px;
-  margin-left: 6cm;
-  vertical-align: baseline;
-  color: #707B7C;
-  font-family: inherit;
-}
-.article10header10{
-  font-size: 1cm;
-  font-weight: bold;
-  margin-left: 3cm;
-}
-.description10article10{
-  margin-left: 3cm;
-}
-.asustuf000{
-  margin-left: 1cm;
-  float: left;
-}
-.centertextar10{
   color: #515A5A;
   font-family: "proxima-semibold","sans-serif";
   font-size: 15px;
