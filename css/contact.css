@@ -1,13 +1,18 @@
-.social{
-  text-align: center;
+.main_header img {
+  width: 10%;
+  border-radius: 40%;
 }
 ul{
   font-size: 20px;
 }
+.flip-card-back li{
+  font-weight: bold;
+  font-size: 18px;
+}
 
 .jumbotron{
   text-align: center;
-  background-color: grey;
+  background-color: ;
 }
 .contact .jumbotron{
   text-align: center;
@@ -21,8 +26,6 @@ ul{
     margin: 6%;
     box-shadow: 0 8px 16px 6px black;
   }
-
-
   .flip-card-inner {
     position: relative;
     width: 100%;
@@ -45,13 +48,45 @@ ul{
   }
 
   .flip-card-front {
-    background-color: #bbb;
+    background-color: ;
     color: black;
+    font-size: 20px;
+    font-weight: bold;
     z-index: 2;
   }
 
   .flip-card-back {
-    background-color: rgba(38, 125, 211, 0.);
+    background-color: #19caaf;
     transform: rotateY(180deg);
     z-index: 1;
+  }
+
+  .flex_container {
+    display: flex;
+    background-color: #19caaf;
+    border-radius: 20px;
+  }
+
+  .flexbox1 {
+    width: 33.33%;
+  }
+
+  .flexbox2 {
+    width: 33.33%;
+  }
+
+  .flexbox3 {
+    width: 33.33%;
+  }
+
+.flex_container h3, p {
+    margin-left: 80px;
+  }
+
+#socialmedia {
+    margin-left: 100px;
+  }
+
+  .flexbox3 a{padding: 20px;
+
   }

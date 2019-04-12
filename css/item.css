@@ -1,16 +1,77 @@
-table, th {
+table, th, tr, td {
   border: 0.5px solid ;
+}
+.key{
+  margin: 300
+}
+.ksh{
+  color: orange;
+  font-weight: bold;
+  font-size: 20px
 }
 .center{
   margin-left: 200px;
 
 }
-.key_features{
-  margin-left: 800px;
-  border: 5px solid red;
-  position: relative;
-  bottom: 380px;
+.title h3{
+  color: #17A589;
 }
-#camera1{
-  border: 5px solid blue;
+.photo1 h1{
+  color: #17A589;
+}
+.flex_container {
+  display: flex;
+  background-color: #19caaf;
+  border-radius: 20px;
+}
+
+.flexbox1 {
+  width: 33.33%;
+}
+
+.flexbox2 {
+  width: 33.33%;
+}
+.flexbox3 {
+  width: 33.33%;
+}
+p{
+  font-size: 20px;
+}
+.flex_container h3, p {
+  margin-left: 80px;
+}
+/*table{
+  margin-left: 100px;
+}*/
+
+#socialmedia {
+  margin-left: 100px;
+}
+
+.flexbox3 a{
+  padding: 20px;
+}
+
+.main_header img {
+  width: 10%;
+  border-radius: 40%;
+}
+.offers h2{
+  color: #17A589;
+}
+.key_features ul{
+  font-size: 18px;
+  list-style: none;
+}
+
+.key_features h3{
+  color: #17A589;
+font-weight: bold;
+}
+body{
+  text-align: center;
+}
+
+#specs{text-align: center;
 }

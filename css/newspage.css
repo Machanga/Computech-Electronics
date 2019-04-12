@@ -1,3 +1,37 @@
+.main_header img {
+  width: 10%;
+  border-radius: 40%;
+}
+.flex_container {
+  display: flex;
+  background-color: #19caaf;
+  border-radius: 20px;
+}
+
+.flexbox1 {
+  width: 33.33%;
+}
+
+.flexbox2 {
+  width: 33.33%;
+}
+
+.flexbox3 {
+  width: 33.33%;
+}
+
+.flex_container h3, p {
+  margin-left: 80px;
+}
+
+#socialmedia {
+  margin-left: 100px;
+}
+
+.flexbox3 a{padding: 20px;
+
+}
+
 .header1{
   font-size: 40px;
   margin-left: 3cm;
