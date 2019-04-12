@@ -20,6 +20,9 @@ Computech Electronics is an online platform that enable our physical store sell 
 ## Description
 Computech Electronics is an online platform that enable our physical store sell to online clients. It's a website in which a user can access all our inventory based on their need, buy the items and delivered to their prefered destination. It enables our store expand its reach and market our products.
 
+## Link of Demo
+https://machanga.github.io/Computech-Electronics/
+
 ## Setup/Installation Requirements
 * install atom text editor
 * use chrome to view the application and its console to debug javascript
